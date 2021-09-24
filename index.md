@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/klysa7/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sfiggos 67
+Athens 11745
+6976097626
+klysandropoulos@gmail.com
+sdi1700266@di.uoa.gr
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Date of birth: 29/4/1999
+Citizenship: Greek,
+Australian
+Place of residence: Sfiggos
+67 Athens
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Experience
 
-### Jekyll Themes
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klysa7/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+7L international, 32 Kifisias, 151 25, Marousi, Attica — Junior Sooftware Enginner
+April 2021-August 2021 .
+7L international, 32 Kifisias, 151 25, Marousi, Attica — internship
+April 2021-August 2021 .
+Bershka, Athens (Ermou 50)— Seller
+February 2018 - May 2021 .
+```
+### Education
 
-### Support or Contact
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+Graduate of the 3rd General High School, Petroupolis
+JUNE 2017 .
+Undergraduate Student, UOA
+In the Department of Informatics and Telecommunications at the National and
+Kapodistrian University of Athens
+Year of admission 2017
+```
+
+### Languages
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Very good knowledge of English
+level Β2 (Lower Michigan)
+Good knowledge of German
+language level Α2 (Goethe
+Institut)
+```
+
+
+
+### Interests
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Basketball player in the men's
+team Irida Petroupolis(A ESKA)
+Former scout in the 4th system of
+Petroupoli
+```
